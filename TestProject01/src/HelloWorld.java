@@ -2,23 +2,13 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
-	
-	float a=10/3;
-	System.out.println(a);
-	
-	}
-		
-		
-		
-		  
-		  }		
-		
-		
-	
-		
-  
-  
-	
-	
 
- 
+		int i=1;
+		while (i<=5) {
+			System.out.println("★");
+			i++;
+		}
+	}
+
+	}
+

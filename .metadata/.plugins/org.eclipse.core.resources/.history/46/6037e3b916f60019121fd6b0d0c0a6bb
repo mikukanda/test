@@ -1,0 +1,12 @@
+package jp.co.internous.action;
+
+public class Main {
+
+public static void main(String[]args){
+	System.out.println("Hello world");
+	System.out.println(hankei(5));
+}
+public static double hankei(int number1){
+	return number1*number1*3.14;
+}	
+}
