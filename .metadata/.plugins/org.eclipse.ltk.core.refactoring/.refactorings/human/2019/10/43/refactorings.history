@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Robot.java&apos; to &apos;Person/src/(デフォルト・パッケージ)&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;human&apos;&#x0D;&#x0A;- 宛先要素: &apos;Person/src/(デフォルト・パッケージ)&apos;&#x0D;&#x0A;- オリジナル要素: &apos;jp.co.internous.action.Robot.java&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新" description="コンパイル単位を移動" destination="=Person/src&lt;" element1="/src&lt;jp.co.internous.action{Robot.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1571968978723" units="1" version="1.0"/>
+</session>
