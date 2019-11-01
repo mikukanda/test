@@ -8,8 +8,9 @@
 </head>
 <body>
 	<form method="post" action="WelcomeServlet">
-		<input type="text" name="username"> <input type="password"
-			name="password"> <input type="submit" value="送信">
+		<input type="text" name="username">
+		<input type="password" name="password">
+		<input type="submit" value="送信">
 	</form>
 </body>
 </html>
