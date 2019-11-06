@@ -1,0 +1,23 @@
+
+
+public class Hero{
+
+	String name;
+	int hp;
+
+	void sleep(){
+		System.out.println(this.name+"は、眠った!");
+
+	}
+
+
+	void sit(int sec){
+		System.out.println(this.name+"は、"+sec+"秒座った");
+
+	}
+
+	void slip(){
+		System.out.println(this.name+"は、転んだ");
+	}
+
+}
