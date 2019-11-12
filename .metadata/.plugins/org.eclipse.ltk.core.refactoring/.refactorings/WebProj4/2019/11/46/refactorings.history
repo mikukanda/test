@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="リソース名 &apos;WebProj4/WebContent/inpuiryComplete.jsp&apos; を &apos;inquiryComplete.jsp&apos; に変更します" description="リソース &apos;inpuiryComplete.jsp&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/inpuiryComplete.jsp" name="inquiryComplete.jsp" stamp="1573540400266" updateReferences="true"/>
+</session>

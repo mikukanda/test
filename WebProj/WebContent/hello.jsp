@@ -12,6 +12,4 @@
 <body>
 	<h1>HelloStruts2!</h1>
 </body>
-
-
 </html>
