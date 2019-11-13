@@ -16,4 +16,5 @@
 <fullyQualifiedTypeName name="com.internousdev.webproj3.dto.LoginDTO"/>
 <fullyQualifiedTypeName name="java.sql.Array"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
